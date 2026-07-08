@@ -1,0 +1,19 @@
+{
+  "functions": {
+    "pages/api/info.js": {
+      "maxDuration": 30
+    },
+    "pages/api/download.js": {
+      "maxDuration": 60
+    },
+    "pages/api/playlist-info.js": {
+      "maxDuration": 60
+    },
+    "pages/api/playlist-download.js": {
+      "maxDuration": 300
+    },
+    "pages/api/playlist-progress.js": {
+      "maxDuration": 30
+    }
+  }
+}
